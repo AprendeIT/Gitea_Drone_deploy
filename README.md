@@ -125,6 +125,8 @@ Nos registramos en gitea para poder crear repos y autenticar desde *drone*. Es i
 
 Añadimos un repo de prueba en gitea para verificar que podemos añadir repositorios y sincronizar *drone*
 
+Mas información en https://aprendeit.com/como-montar-un-gitea-con-ci-cd-con-drone
+
 ## Añadir fichero de drone al repo
 
 fichero `.drone.yml`:
