@@ -15,7 +15,10 @@ Se puede instalar según la guia de instalación de docker-compose https://docs.
 
 ## Descargar el fichero de docker-compose
 
-Poner aqui el enlace de github de docker-compose file
+```
+git clone https://github.com/AprendeIT/Gitea_Drone_deploy.git
+cd Gitea_Drone_deploy
+```
 
 ## Configurar RPC secret
 
