@@ -125,7 +125,6 @@ Nos registramos en gitea para poder crear repos y autenticar desde *drone*. Es i
 
 Añadimos un repo de prueba en gitea para verificar que podemos añadir repositorios y sincronizar *drone*
 
-Mas información en https://aprendeit.com/como-montar-un-gitea-con-ci-cd-con-drone
 
 ## Añadir fichero de drone al repo
 
@@ -163,5 +162,10 @@ Problemas al hacer login en Drone: Eliminar token desde el usuario que falla en 
 
 -  Accede a gitea con el usuario que falla
 - Dirigete a configuracion de usuario
-- Pinca en aplicaciones y borra el token *Drone*
+- Pincha en aplicaciones y borra el token *Drone*
+
+
+
+Mas información en https://aprendeit.com/como-montar-un-gitea-con-ci-cd-con-drone
+
 
